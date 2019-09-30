@@ -1,0 +1,49 @@
+
+
+footer a {
+  display: block;
+  color:white;
+  text-decoration:none;
+  padding:10px;
+}
+
+.contents-containner {
+  min-height: 75vh;
+  padding-top: 58px;
+  width: 100%;
+  max-width: 690px; /* changed */
+  margin: auto;
+}
+
+.form-group {
+  max-width: 500px;
+  margin: auto;
+  padding-top: 10px;
+
+}
+
+.form-contents {
+  padding: 16px;
+  margin: 0;
+}
+.form-contents label {
+  display: block;
+  color: #000;
+}
+.form-contents .input {
+  width: 96%;
+  border-radius: 4px;
+  border: 2px solid #6257c7;
+  padding: 7px;
+  font-size: 15px;
+}
+
+.submit {
+    background: #6257c7;
+    padding: 12px 19px;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+}
+
+/* /////////////////////////////////////////////////// */
