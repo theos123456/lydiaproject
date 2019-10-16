@@ -337,8 +337,8 @@ $conn=mysqli_connect('localhost','root','','reservation') or die('Connection fai
         </div>
    <!------------------------------------------------------------start of report----------->
   <?php
-   $conn=mysqli_connect('localhost','root','','reservation') or die('Connection fails');
-$query1=mysqli_query($conn,"select * from users where type='publisher'") or die("selecting error");
+   $conn=mysqli_connect('localhost','root','','reservationm') or die('Connection fails');
+$query1=mysqli_query($con,"select * from users where type='publisher'") or die("selecting error");
   ?>
   
 
@@ -426,8 +426,8 @@ $query1=mysqli_query($conn,"select * from users where type='publisher'") or die(
 
         <!-- page end-->
         <?php
-   $conn=mysqli_connect('localhost','root','','reservation') or die('Connection fails');
-$query1=mysqli_query($conn,"select * from comments") or die("selecting error");
+   $conn=mysqli_connect('localhost','root','','reservatiom') or die('Connection fails');
+$query1=mysqli_query($con,"select * from comments") or die("selecting error");
   ?>
   
 
