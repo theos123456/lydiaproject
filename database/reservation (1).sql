@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Sep 30, 2019 at 12:43 PM
+-- Generation Time: Oct 16, 2019 at 02:31 PM
 -- Server version: 5.0.45
 -- PHP Version: 5.2.4
 
@@ -24,7 +24,7 @@ CREATE TABLE `comments` (
   `email` varchar(255) NOT NULL,
   `comments` varchar(255) NOT NULL,
   PRIMARY KEY  (`id`)
-) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+) ENGINE=InnoDB  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
 
 --
 -- Dumping data for table `comments`

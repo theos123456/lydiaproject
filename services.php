@@ -88,7 +88,7 @@ display:inline-block;
 </head>
 <body  >
 
-<div id="jo"style="background-image:url('house9.jpg');background-repeat:no-repeat;height:188px;width:100%; background-size:100% 100%;" >
+<div id="jo"style="background-image:url('new.jpg');height:188px;width:100%; background-size:37vh 15vw;" >
 <image src="logo3.png" style="width:350px;height:188px;margin-left:-350px;">
 <h1 style="height:150px;color:white;width:100%;padding:3%;margin-left:5px;text-align:center;margin-top:-210px;font-family:Rockwell Condensed;">
 <marquee direction="left" behaviour="alternate"><b>TOURISTS  PASSAGE HOUSES BOOKING SYSTEM</b></marquee></h1>
